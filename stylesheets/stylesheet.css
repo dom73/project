@@ -141,7 +141,8 @@ p2 {
 	color: #FF00FF;
 }
 .main-content p {
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  text-align: justify; }
 .main-content code {
   padding: 2px 2px;
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -250,7 +251,8 @@ p2 {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px #eff0f1;
+  text-align: center }
 
 .site-footer-owner {
   display: block;
