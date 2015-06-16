@@ -85,14 +85,7 @@ p2 {
 @media screen and (max-width: 42em) {
   .page-header {
     padding: 5px 20px;
-	width: 240%;}
-	.a {
-		margin-left: 0px;}
- }
-
-.project-name {
-  margin-top: 0;
-  margin-bottom: 0rem; }
+	width: 240%;}}
 
 @media screen and (min-width: 64em) {
   .project-name {
