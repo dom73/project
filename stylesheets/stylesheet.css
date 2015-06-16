@@ -55,24 +55,6 @@ p2 {
   background-image: linear-gradient(120deg, #0066FF, #000033);
    }
    
-@font-face {
-    font-family: 'bubblegumregular';
-    src: url('fonts/bubblegum-webfont.eot');
-    src: url('fonts/bubblegum-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/bubblegum-webfont.woff2') format('woff2'),
-         url('fonts/bubblegum-webfont.woff') format('woff'),
-         url('fonts/bubblegum-webfont.ttf') format('truetype'),
-         url('fonts/bubblegum-webfont.svg#bubblegumregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-h1 {
-font-family:bubblegumregular;
-font-size:3em;
-}
-
 @media screen and (min-width: 64em) {
   .btn {
     padding: 3px 114px;
@@ -98,12 +80,12 @@ font-size:3em;
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
     padding: 7px 45px;
-	width: 90%; } }
+	width: 100%; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
     padding: 5px 20px;
-	width: 220%;}
+	width: 240%;}
 	.a {
 		margin-left: 0px;}
  }
