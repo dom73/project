@@ -57,7 +57,7 @@ p2 {
    
   @font-face {
 font-family: 'Kristen ITC';
-src: url('fonts/Kristen-ITC-Regular.ttf');
+src: url('fonts/Kristen-ITC-Regular.ttf') format('ttf'),
  font-weight: normal;
 font-style: normal;}
 
