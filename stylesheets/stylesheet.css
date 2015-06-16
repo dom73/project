@@ -80,12 +80,12 @@ p2 {
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
     padding: 7px 45px;
-	width: 110%; } }
+	width: 100%; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
     padding: 5px 20px;
-	width: 270%;}
+	width: 250%;}
 	.a {
 		margin-left: 0px;}
  }
