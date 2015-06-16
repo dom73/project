@@ -54,6 +54,12 @@ p2 {
   background-color: #0066FF;
   background-image: linear-gradient(120deg, #0066FF, #000033);
    }
+   
+  @font-face {
+font-family: 'Kristen ITC';
+src: url('fonts/Kristen-ITC-Regular.ttf');
+ font-weight: normal;
+font-style: normal;}
 
 @media screen and (min-width: 64em) {
   .btn {
