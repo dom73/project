@@ -248,13 +248,13 @@ p2 {
   .main-content {
     padding: 2rem 4rem;
     font-size: 1.1rem; 
-	width: 105%;} }
+	width: 95%;} }
 
 @media screen and (max-width: 42em) {
   .main-content {
     padding: 2rem 1rem;
     font-size: 1rem; 
-	width: 240%;} }
+	width: 200%;} }
 
 .site-footer {
   padding-top: 2rem;
