@@ -80,7 +80,7 @@ p2 {
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
     padding: 7px 45px;
-	width: 100%; } }
+	width: 105%; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
