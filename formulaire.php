@@ -1,6 +1,5 @@
-//1 fichier ex.:formulaire.php ou formulaire.html
-
-<HTML>
+<!DOCTYPE html>
+<html lang="fr">
 <HEAD>
 <TITLE>E-Mail Formulaire</TITLE>
 </HEAD>
